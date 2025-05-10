@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "type": "micro",
+  "model": "warmbo.tflite",
+  "keyword": "warmbo",
+  "sensitivity": 0.5
+}
